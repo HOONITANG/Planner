@@ -67,20 +67,27 @@
 
 ### HomePage
 
-- 주간메모
-- Todo를 관리하는 페이지
+![home](https://user-images.githubusercontent.com/45157159/145926370-dfa412fa-c768-4d2a-8316-ba6fa69ce810.png)
+
+- 주간메모, Todo를 관리하는 페이지
 
 ### DailyPage
+
+![daily](https://user-images.githubusercontent.com/45157159/145926367-8789d6a6-f559-4112-b4bf-b4e8922fee93.png)
 
 - 측정된 시간을 확인할 수 있는 페이지
 
 ### DashBoardPage
 
+![dashboard](https://user-images.githubusercontent.com/45157159/145926363-366d6da7-b629-46b7-8f41-2a1d4491e5ea.png)
+
 - 주,월 별로 총 사용된 시간을 확인 할 수 있는 페이지
 
 ### TagPage
 
-- todo Tag를 관리하는 페이지
+![tag](https://user-images.githubusercontent.com/45157159/145926418-c2a0ceec-8770-4b9b-b5b5-b1f6e469436a.png)
+
+- Todo를 그룹핑하는 Tag를 관리하는 페이지
 
 ---
 
