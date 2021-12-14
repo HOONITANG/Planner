@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  planner
+
+  Created by Taehoon Kim on 2021/11/16.
+  
+*/
+
+// Value가 있을 때
+// Localizable.strings (English)
+// "My Age %d" = "I am %d years old";
+//Localizable.strings (Japanese)
+// "My Age %d" = "私は%d歳だよ。";
+//Localizable.strings (Korean)
+// "My Age %d" = "나의 나이 %d";
+
+// Home
+"HomeWeekGoal" = "주간목표";
+"HomeDeleteButton" = "삭제";
+"PleaseAddTag" = "Tag를 추가해주세요";
+
+// TAG
+"TagTitle" = "태그 관리";
+"TagModifyButton" = "수정";
+"TagDeleteButton" = "삭제";
+
+"ModalAddTitle" = "ADD TAG";
+"ModalAddDescription" = "추가 할 Tag명을 입력하세요.";
+"ModalModifyDescription" = "TAG를 입력한 값으로 수정하시겠습니까?";
+"ModalDeleteDescription" = "TAG를 삭제하시겠습니까?\n관련된 Task 목록이 모두 제거됩니다.";
+
+// StatusModal
+"start" = "시작";
+"complete" = "완료";
+"postpone" = "미룸";
+"Incomplete" = "미완료";
+"fix" = "고정";
+"unfix" = "고정해제";
+"delete" = "삭제";
+
+//Daily
+"DailyStopAlert" = "선택한 Task를 중지 하시겠습니까?";
+"DailyDeleteAlert" = "선택한 Task를 삭제 하시겠습니까?";
+
+//Static
+"StaticFilterTitle" = "분석할 날짜를 선택해주세요";
+"StaticToday" = "Task 비율 그래프";
+"StaticTodayDescription" = "Task에 얼마나 시간을 소요했는지를 보여줍니다.";
+"StaticWeek" = "Task 한주 그래프";
+"StaticWeekDescription" = "해당 주 평균 시간은 %@ 시간입니다.\n총 시간은 %@ 시간입니다.";
+"StaticMonth" = "Task 월간 그래프";
+"StaticMonthDescription" =  "해당 달 평균 시간은 %@ 시간입니다.\n총 시간은 %@ 시간입니다.";
+"StaticCustomButton" = "내 Task 분석하기";
+"Nodata" = "No Data";
+"NoResult" = "No Result";
+
+//CustomStatic
+"CustomStaticTagTitle" = "%@이 포함된 모든 Tag";
+"CustomStaticTaskTitle" = "%@이 포함된 모든 Task";
+"CustomStaticNoData" = "검색된 데이터가 없습니다.";
+"CustomStaticChartNoData" = "검색된 데이터가 없습니다. 검색 필터를 적용해주세요.";
+"CustomStaticMonth" = "월간 통합 그래프";
+"CustomStaicMonthDetail" = "월간 상세 그래프";
+
+//settingside
+"Static" = "분석";
+"Setting" = "설정";
+
+//Setting
+"Premium" = "프리미엄";
+"InformationUse" = "이용안내";
+"Notice" = "공지사항";
+"ContactUs" = "문의하기";
+"Etc" = "기타";
+"AppStoreReviews" = "앱스토어 리뷰";
+"License" = "라이선스";
+"Service" = "서비스";
+"TermsOfService" = "서비스 이용약관";
+"PrivacyPolicy" = "개인정보 처리방침";

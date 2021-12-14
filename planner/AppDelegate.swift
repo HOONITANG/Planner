@@ -5,17 +5,55 @@
 //  Created by Taehoon Kim on 2021/08/27.
 //
 
+import GoogleMobileAds
 import UIKit
 import CoreData
+import RealmSwift
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
-
+    var hasAlreadyLaunched :Bool!
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        GADMobileAds.sharedInstance().start(completionHandler: nil)
+        
+        hasAlreadyLaunched = UserDefaults.standard.bool(forKey: "hasAlreadyLaunched")
+        
+        //check first launched
+        if (hasAlreadyLaunched)
+        {
+            hasAlreadyLaunched = true
+        }else{
+            UserDefaults.standard.set(true, forKey: "hasAlreadyLaunched")
+        }
+        
+        UIFont.familyNames.forEach { name in
+            for font_name in UIFont.fontNames(forFamilyName: name) {
+                print("\n\(font_name)")
+            }
+        }
+        print(Realm.Configuration.defaultConfiguration.fileURL)
+        do {
+            _ = try Realm()
+        } catch {
+            print("Error initialising new realm, \(error)")
+        }
+        
+        UINavigationBar.appearance().barTintColor = .white
+//        UINavigationBar.appearance().tintColor = .gray
+//        UINavigationBar.appearance().backIndicatorImage = UIImage(systemName: "plus")
+//        UINavigationBar.appearance().backIndicatorTransitionMaskImage = UIImage(systemName: "plus")
+        
+        UINavigationBar.appearance().titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.black]
+        UINavigationBar.appearance().isTranslucent = false
+   
+        Storage.statusChanged()
+        
         return true
+    }
+    
+    func sethasAlreadyLaunched(){
+        hasAlreadyLaunched = true
     }
 
     // MARK: UISceneSession Lifecycle

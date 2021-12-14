@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="memoTableCell" rowHeight="104" id="KGk-i7-Jjw" customClass="MemoTableCell" customModule="planner" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="104"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="104"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="AOf-FR-tab">
+                        <rect key="frame" x="16" y="37" width="30" height="30"/>
+                        <color key="tintColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="30" id="RRT-LT-yok"/>
+                            <constraint firstAttribute="height" constant="30" id="dRH-a6-VOS"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="249" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ECa-3m-31f">
+                        <rect key="frame" x="62" y="8" width="196" height="88"/>
+                        <color key="tintColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qp7-n7-TSM">
+                        <rect key="frame" x="274" y="8" width="30" height="30"/>
+                        <state key="normal" title="삭제"/>
+                        <connections>
+                            <action selector="didTapWeekMemoRemoveButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="AlV-ns-U0u"/>
+                        </connections>
+                    </button>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="qp7-n7-TSM" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="6Mx-aL-TnU"/>
+                    <constraint firstItem="ECa-3m-31f" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="Mhf-YX-0ez"/>
+                    <constraint firstItem="ECa-3m-31f" firstAttribute="leading" secondItem="AOf-FR-tab" secondAttribute="trailing" constant="16" id="QhV-0N-gmv"/>
+                    <constraint firstAttribute="bottom" secondItem="ECa-3m-31f" secondAttribute="bottom" constant="8" id="ecG-nB-0WD"/>
+                    <constraint firstItem="qp7-n7-TSM" firstAttribute="leading" secondItem="ECa-3m-31f" secondAttribute="trailing" constant="16" id="p5r-hO-nQe"/>
+                    <constraint firstItem="AOf-FR-tab" firstAttribute="centerY" secondItem="ECa-3m-31f" secondAttribute="centerY" id="pUW-V2-okt"/>
+                    <constraint firstAttribute="trailing" secondItem="qp7-n7-TSM" secondAttribute="trailing" constant="16" id="uFb-e8-ZAB"/>
+                    <constraint firstItem="AOf-FR-tab" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="vPJ-9p-lQi"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="checkImage" destination="AOf-FR-tab" id="n5h-u2-rIj"/>
+                <outlet property="removeButton" destination="qp7-n7-TSM" id="pLC-tR-3PZ"/>
+                <outlet property="title" destination="ECa-3m-31f" id="XFi-aU-4gw"/>
+            </connections>
+            <point key="canvasLocation" x="131.8840579710145" y="48.214285714285715"/>
+        </tableViewCell>
+    </objects>
+</document>

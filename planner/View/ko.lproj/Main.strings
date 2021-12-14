@@ -1,0 +1,222 @@
+
+/* Class = "UILabel"; text = "Todo: "; ObjectID = "0Yt-aG-Tqj"; */
+"0Yt-aG-Tqj.text" = "Todo: ";
+
+/* Class = "UILabel"; text = "- ios 알림 화면 개설"; ObjectID = "0s4-8M-C0G"; */
+"0s4-8M-C0G.text" = "- ios 알림 화면 개설";
+
+/* Class = "UIButton"; normalTitle = "Today"; ObjectID = "2ek-8v-Ghx"; */
+"2ek-8v-Ghx.normalTitle" = "Today";
+
+/* Class = "UILabel"; text = "2021.11.22"; ObjectID = "2rR-fi-xb5"; */
+"2rR-fi-xb5.text" = "2021.11.22";
+
+/* Class = "UILabel"; text = "01 Apr 2018"; ObjectID = "2sb-ic-1Kd"; */
+"2sb-ic-1Kd.text" = "01 Apr 2018";
+
+/* Class = "UILabel"; text = "완료"; ObjectID = "3pj-iN-a0v"; */
+"3pj-iN-a0v.text" = "완료";
+
+/* Class = "UILabel"; text = "Date Filter"; ObjectID = "4SL-JR-FDm"; */
+"4SL-JR-FDm.text" = "Date Filter";
+
+/* Class = "UILabel"; text = "오늘"; ObjectID = "4xF-5h-UJI"; */
+"4xF-5h-UJI.text" = "오늘";
+
+/* Class = "UILabel"; text = "미룸"; ObjectID = "6V7-qw-RPt"; */
+"6V7-qw-RPt.text" = "미룸";
+
+/* Class = "UILabel"; text = "분석 기능 제공"; ObjectID = "6au-Hv-zOB"; */
+"6au-Hv-zOB.text" = "분석 기능 제공";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6hx-Wl-rSl"; */
+"6hx-Wl-rSl.text" = "Label";
+
+/* Class = "UILabel"; text = "Alert Message"; ObjectID = "6rn-N8-vlR"; */
+"6rn-N8-vlR.text" = "Alert Message";
+
+/* Class = "UILabel"; text = "0 hours 0 minutes"; ObjectID = "8rN-5k-CkN"; */
+"8rN-5k-CkN.text" = "0 hours 0 minutes";
+
+/* Class = "UILabel"; text = "달 선택시 일 분석"; ObjectID = "92y-Xj-Yg9"; */
+"92y-Xj-Yg9.text" = "달 선택시 일 분석";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "BGB-qW-vui"; */
+"BGB-qW-vui.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "이번달"; ObjectID = "DVI-Mk-5vd"; */
+"DVI-Mk-5vd.text" = "이번달";
+
+/* Class = "UILabel"; text = "삭제"; ObjectID = "EGj-Ey-pcC"; */
+"EGj-Ey-pcC.text" = "삭제";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "H8Y-8F-gEB"; */
+"H8Y-8F-gEB.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = " Todo"; ObjectID = "HXz-og-9dK"; */
+"HXz-og-9dK.normalTitle" = " Todo";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "Hhm-wP-13D"; */
+"Hhm-wP-13D.text" = "4";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "INh-Sa-eFo"; */
+"INh-Sa-eFo.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "내 Todo 분석하기"; ObjectID = "Jci-0a-hWE"; */
+"Jci-0a-hWE.normalTitle" = "내 Todo 분석하기";
+
+/* Class = "UILabel"; text = "2021.10.11"; ObjectID = "Jcm-Nj-YRG"; */
+"Jcm-Nj-YRG.text" = "2021.10.11";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "Jff-Zi-QhT"; */
+"Jff-Zi-QhT.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Alert Message"; ObjectID = "LJr-cW-W6m"; */
+"LJr-cW-W6m.text" = "Alert Message";
+
+/* Class = "UIButton"; normalTitle = "restore Purchase"; ObjectID = "MNi-oM-wnD"; */
+"MNi-oM-wnD.normalTitle" = "restore Purchase";
+
+/* Class = "UILabel"; text = "테마 변경"; ObjectID = "NMH-BU-fTh"; */
+"NMH-BU-fTh.text" = "테마 변경";
+
+/* Class = "UILabel"; text = "광고 제거"; ObjectID = "OoS-Yd-p0w"; */
+"OoS-Yd-p0w.text" = "광고 제거";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Owp-4z-ijj"; */
+"Owp-4z-ijj.text" = "Label";
+
+/* Class = "UILabel"; text = "TODO"; ObjectID = "PZs-15-9hc"; */
+"PZs-15-9hc.text" = "TODO";
+
+/* Class = "UIButton"; normalTitle = "show"; ObjectID = "QFC-W4-a1x"; */
+"QFC-W4-a1x.normalTitle" = "show";
+
+/* Class = "UILabel"; text = "- ios 알림 화면 개설"; ObjectID = "RAl-ct-Ped"; */
+"RAl-ct-Ped.text" = "- ios 알림 화면 개설";
+
+/* Class = "UILabel"; text = "- ios 알림 화면 개설"; ObjectID = "RbO-kp-zWl"; */
+"RbO-kp-zWl.text" = "- ios 알림 화면 개설";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SCv-rA-Yql"; */
+"SCv-rA-Yql.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "오늘 하루는 어땠나요"; ObjectID = "Spr-mO-t0E"; */
+"Spr-mO-t0E.text" = "오늘 하루는 어땠나요";
+
+/* Class = "UIButton"; normalTitle = " Tag"; ObjectID = "SwT-na-Gk4"; */
+"SwT-na-Gk4.normalTitle" = " Tag";
+
+/* Class = "UILabel"; text = "End Date"; ObjectID = "UJ3-ng-6rW"; */
+"UJ3-ng-6rW.text" = "End Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VPY-WK-7g6"; */
+"VPY-WK-7g6.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "수정"; ObjectID = "Vq3-RU-JWc"; */
+"Vq3-RU-JWc.normalTitle" = "수정";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XNo-5u-X4e"; */
+"XNo-5u-X4e.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Premium"; ObjectID = "XZY-ii-VCw"; */
+"XZY-ii-VCw.text" = "Premium";
+
+/* Class = "UILabel"; text = "2021.11.22"; ObjectID = "YOA-tU-gqv"; */
+"YOA-tU-gqv.text" = "2021.11.22";
+
+/* Class = "UIButton"; normalTitle = "삭제"; ObjectID = "YuA-q1-cbY"; */
+"YuA-q1-cbY.normalTitle" = "삭제";
+
+/* Class = "UILabel"; text = "TermsOfUse"; ObjectID = "Ywc-gk-6jd"; */
+"Ywc-gk-6jd.text" = "TermsOfUse";
+
+/* Class = "UILabel"; text = "No Data"; ObjectID = "ZHX-Ru-LrF"; */
+"ZHX-Ru-LrF.text" = "No Data";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "aT7-gT-t6W"; */
+"aT7-gT-t6W.text" = "Privacy";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "bIF-Dq-y8Y"; */
+"bIF-Dq-y8Y.text" = "Title";
+
+/* Class = "UILabel"; text = "January"; ObjectID = "f1f-mR-8ja"; */
+"f1f-mR-8ja.text" = "January";
+
+/* Class = "UILabel"; text = "일 분석"; ObjectID = "fnB-PP-p9u"; */
+"fnB-PP-p9u.text" = "일 분석";
+
+/* Class = "UILabel"; text = "이번주"; ObjectID = "hdz-qY-xSU"; */
+"hdz-qY-xSU.text" = "이번주";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "iQx-hO-t4H"; */
+"iQx-hO-t4H.text" = "Title";
+
+/* Class = "UILabel"; text = "ios 2.7.1 수정 내용"; ObjectID = "iS7-mJ-htA"; */
+"iS7-mJ-htA.text" = "ios 2.7.1 수정 내용";
+
+/* Class = "UILabel"; text = "미완료"; ObjectID = "iUr-dg-mYl"; */
+"iUr-dg-mYl.text" = "미완료";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "jnW-SS-BEY"; */
+"jnW-SS-BEY.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "k6i-EJ-U8N"; */
+"k6i-EJ-U8N.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kbQ-2W-cuR"; */
+"kbQ-2W-cuR.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "UNLOCK PREMIUM"; ObjectID = "lXC-88-cTB"; */
+"lXC-88-cTB.normalTitle" = "UNLOCK PREMIUM";
+
+/* Class = "UILabel"; text = "한달 평균 시간은 8시간 입니다. (좌우로 스크롤)"; ObjectID = "mJm-oB-KES"; */
+"mJm-oB-KES.text" = "한달 평균 시간은 8시간 입니다. (좌우로 스크롤)";
+
+/* Class = "UISegmentedControl"; nUZ-05-GZL.segmentTitles[0] = "week"; ObjectID = "nUZ-05-GZL"; */
+"nUZ-05-GZL.segmentTitles[0]" = "week";
+
+/* Class = "UISegmentedControl"; nUZ-05-GZL.segmentTitles[1] = "month"; ObjectID = "nUZ-05-GZL"; */
+"nUZ-05-GZL.segmentTitles[1]" = "month";
+
+/* Class = "UILabel"; text = "달 분석"; ObjectID = "nUv-WC-X56"; */
+"nUv-WC-X56.text" = "달 분석";
+
+/* Class = "UIButton"; normalTitle = "Go"; ObjectID = "p4I-y7-Vyf"; */
+"p4I-y7-Vyf.normalTitle" = "Go";
+
+/* Class = "UILabel"; text = "01 Apr 2018"; ObjectID = "pkc-MH-CKI"; */
+"pkc-MH-CKI.text" = "01 Apr 2018";
+
+/* Class = "UILabel"; text = "이번주 평균 시간은 4시간입니다. 총 시간은 32.4입니다. 주간 계획 달성률은 70% 입니다."; ObjectID = "q9d-Cf-ajT"; */
+"q9d-Cf-ajT.text" = "이번주 평균 시간은 4시간입니다. 총 시간은 32.4입니다. 주간 계획 달성률은 70% 입니다.";
+
+/* Class = "UILabel"; text = "Get Full Access"; ObjectID = "qnY-6n-KBL"; */
+"qnY-6n-KBL.text" = "Get Full Access";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "qrW-zq-gqF"; */
+"qrW-zq-gqF.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "rlA-FP-S4l"; */
+"rlA-FP-S4l.text" = "Title";
+
+/* Class = "UILabel"; text = "고정"; ObjectID = "s4W-Ve-L8w"; */
+"s4W-Ve-L8w.text" = "고정";
+
+/* Class = "UILabel"; text = "License"; ObjectID = "wS7-3l-LfV"; */
+"wS7-3l-LfV.text" = "License";
+
+/* Class = "UILabel"; text = "From Date"; ObjectID = "wVX-52-WV3"; */
+"wVX-52-WV3.text" = "From Date";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y0Q-bU-c1k"; */
+"y0Q-bU-c1k.text" = "Label";
+
+/* Class = "UILabel"; text = "각 달마다 얼만큼 시간을 소비"; ObjectID = "ymc-PC-IeO"; */
+"ymc-PC-IeO.text" = "각 달마다 얼만큼 시간을 소비";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ymq-kq-Hfv"; */
+"ymq-kq-Hfv.text" = "Label";
+
+/* Class = "UILabel"; text = "시작"; ObjectID = "zQj-Yb-AAf"; */
+"zQj-Yb-AAf.text" = "시작";
